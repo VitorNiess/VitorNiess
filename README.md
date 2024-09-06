@@ -20,7 +20,7 @@
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 <img align="left" alt="GIT" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="LaTeX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
+<img align="left" alt="LaTeX" width="30px" style="padding-right:10px;color:white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
 
 <br/>
 
