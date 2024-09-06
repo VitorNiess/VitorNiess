@@ -4,7 +4,7 @@
 
 ---
 
-### Linguagens e Ferramentas ###
+### 🛠️ **Linguagens e Ferramentas** ###
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
@@ -24,7 +24,7 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="LaTeX" width="30px" style="padding-right:10px; background-color: white; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
 
-#
+---
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=VitorNiess&show_icons=true&theme=dracula)
 
