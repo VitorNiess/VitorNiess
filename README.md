@@ -26,7 +26,7 @@
 
 <br clear="left"/>
 
-<hr style="border:1px solid;"/>
+<hr style="border:1px solid, margin-top:5px;"/>
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=VitorNiess&show_icons=true&theme=dracula)
 
