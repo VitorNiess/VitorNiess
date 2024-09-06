@@ -2,6 +2,12 @@
 
 **Técnico em Informática e Estudante de Ciência da Computação**
 
+<br/>
+
+---
+
+<br/>
+
 ### Linguagens e Ferramentas ###
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
@@ -21,10 +27,6 @@
 <img align="left" alt="GIT" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="LaTeX" width="30px" style="padding-right:10px; background-color: white; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
-
----
-
-Mais texto
 
 <!--
 **VitorNiess/VitorNiess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
