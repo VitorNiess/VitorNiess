@@ -1,13 +1,11 @@
 ## Olá! 👋
 
 **Técnico em Informática e Estudante de Ciência da Computação**
-
 <br/>
 
 ---
 
 <br/>
-
 ### Linguagens e Ferramentas ###
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
